@@ -1,0 +1,21 @@
+[[Wed May 29 22:31:22 CEST 2024]]: Added target: TARGET1
+[[Wed May 29 22:33:22 CEST 2024]]: Updated notes.
+[[Wed May 29 22:47:14 CEST 2024]]: Added /home/kali/Downloads/example.png to loot.
+[[Wed May 29 22:48:44 CEST 2024]]: Added /home/kali/example.png to loot.
+[[Wed May 29 22:49:21 CEST 2024]]: Added /log.txt to loot.
+[[Wed May 29 22:52:38 CEST 2024]]: Added /home/kali/ to loot.
+[[Wed May 29 22:53:22 CEST 2024]]: Added /home/kali/ to loot.
+[[Wed May 29 22:54:13 CEST 2024]]: Added /home/kali/ to loot.
+[[Wed May 29 22:54:38 CEST 2024]]: Added /home/kali/ to loot.
+[[Wed May 29 22:54:47 CEST 2024]]: Added /home/kali/ to loot.
+[[Wed May 29 22:55:03 CEST 2024]]: Added /home/kali/
+example.png to loot.
+[[Wed May 29 22:55:48 CEST 2024]]: Added /home/kali/
+example.png to loot.
+[[Wed May 29 22:56:13 CEST 2024]]: Added /home/kali/
+example.png to loot.
+[[Wed May 29 22:56:33 CEST 2024]]: Added /home/kali/
+example.png to loot.
+[[Wed May 29 22:56:52 CEST 2024]]: Added /home/kali/
+example.png to loot.
+[[Wed May 29 22:57:16 CEST 2024]]: Added /home/kali/example.png to loot.

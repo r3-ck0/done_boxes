@@ -1,0 +1,2 @@
+[[Sat Jun  1 19:25:23 CEST 2024]]: Initialized box ctf/codegate/gnxboard
+[[Sat Jun  1 19:25:30 CEST 2024]]: Added /home/kali/Downloads/for_user(1).zip to loot.

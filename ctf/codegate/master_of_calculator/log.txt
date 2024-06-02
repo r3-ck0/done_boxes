@@ -1,0 +1,4 @@
+[[Sat Jun  1 09:06:14 CEST 2024]]: Initialized box ctf/codegate/master_of_calculator
+[[Sat Jun  1 09:06:19 CEST 2024]]: Added /home/kali/Downloads/for_user.zip to loot.
+[[Sat Jun  1 12:22:26 CEST 2024]]: Updated notes.
+[[Sat Jun  1 12:27:03 CEST 2024]]: Updated notes.

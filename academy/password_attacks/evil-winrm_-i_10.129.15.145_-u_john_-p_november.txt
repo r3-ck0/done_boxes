@@ -1,0 +1,8 @@
+                                        
+[0;34mEvil-WinRM shell v3.5[0m
+                                        
+[0;1;33mWarning: Remote path completions is disabled due to ruby limitation: quoting_detection_proc() function is unimplemented on this machine[0m
+                                        
+[0;35mData: For more information, check Evil-WinRM GitHub: https://github.com/Hackplayers/evil-winrm#Remote-path-completion[0m
+                                        
+[0;34mInfo: Establishing connection to remote endpoint[0m

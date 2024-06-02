@@ -1,0 +1,28 @@
+version: "3.7"
+services:
+    gnx:
+        build: ./www
+        depends_on:
+            - db
+        ports:
+            - "40013:80"
+        volumes:
+            - ./www/src/:/var/www/html
+        links:
+            - db
+    db:
+        build: ./mysql
+        environment: 
+            MYSQL_ROOT_USER: root
+            MYSQL_ROOT_PASSWORD: rootpassword
+            MYSQL_USER: gnxboard
+            MYSQL_PASSWORD: asdf1234
+            MYSQL_DATABASE: gnxboard
+        expose:
+            - 3306
+        volumes:
+            - ./mysql/init.sql:/docker-entrypoint-initdb.d/init.sql
+        command:
+            - --character-set-server=utf8mb4
+            - --collation-server=utf8mb4_unicode_ci
+        restart: always

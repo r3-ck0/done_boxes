@@ -1,0 +1,2 @@
+[[Sat Jun  1 19:27:42 CEST 2024]]: Initialized box ctf/codegate/basicrev
+[[Sat Jun  1 19:27:46 CEST 2024]]: Added /home/kali/Downloads/for_user(1).zip to loot.

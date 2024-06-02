@@ -1,0 +1,46 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: TrendsNotification.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+- png
+- webp
+isFrameworkApk: false
+packageInfo: null
+sdkInfo:
+  minSdkVersion: '23'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  firebase-analytics-ktx.properties: '8'
+  firebase-analytics.properties: '8'
+  firebase-annotations.properties: '8'
+  firebase-appcheck-interop.properties: '8'
+  firebase-auth-interop.properties: '8'
+  firebase-common-ktx.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-database-collection.properties: '8'
+  firebase-database-ktx.properties: '8'
+  firebase-database.properties: '8'
+  firebase-installations-interop.properties: '8'
+  firebase-installations.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  kotlin-tooling-metadata.json: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+usesFramework: null
+version: 2.7.0-dirty
+versionInfo: null

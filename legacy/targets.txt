@@ -1,0 +1,2 @@
+export TARGET=10.129.227.181
+export TARGET1=10.10.10.10

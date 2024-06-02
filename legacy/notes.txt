@@ -1,0 +1,1 @@
+This was a very simple box. All that was necessary was to run eternalblue through metasploit

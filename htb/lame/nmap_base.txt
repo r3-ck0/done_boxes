@@ -1,0 +1,11 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-05-28 22:13 CEST
+Nmap scan report for 10.129.224.189
+Host is up (0.036s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+21/tcp  open  ftp
+22/tcp  open  ssh
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap done: 1 IP address (1 host up) scanned in 5.73 seconds

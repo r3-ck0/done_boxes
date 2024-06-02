@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+  backend:
+    build:
+      context: backend
+    restart: unless-stopped
+    ports:
+      - 8001:80
+  waf:
+    build:
+      context: WAF
+    restart: unless-stopped
+    ports:
+      - 8000:8080
+    links:
+      - backend
+    depends_on:
+      - backend
+    logging:
+      driver: json-file
+      options:
+        max-size: "200k"
+        max-file: "10"
+        mode: non-blocking

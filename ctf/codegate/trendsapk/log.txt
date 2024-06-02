@@ -1,0 +1,2 @@
+[[Sat Jun  1 19:34:22 CEST 2024]]: Initialized box ctf/codegate/trendsapk
+[[Sat Jun  1 19:34:27 CEST 2024]]: Added /home/kali/Downloads/TrendsNotification.apk to loot.

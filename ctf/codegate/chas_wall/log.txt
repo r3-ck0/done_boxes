@@ -1,0 +1,2 @@
+[[Sat Jun  1 14:00:31 CEST 2024]]: Initialized box ctf/codegate/chas_wall
+[[Sat Jun  1 14:00:37 CEST 2024]]: Added /home/kali/Downloads/for_user(1).zip to loot.

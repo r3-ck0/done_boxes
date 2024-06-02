@@ -1,0 +1,2 @@
+[[Sat Jun  1 03:10:43 CEST 2024]]: Initialized box ctf/codegate/prism_messenger
+[[Sat Jun  1 03:10:51 CEST 2024]]: Added /home/kali/Downloads/for_user.zip to loot.

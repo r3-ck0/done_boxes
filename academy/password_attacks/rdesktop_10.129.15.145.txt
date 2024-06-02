@@ -1,0 +1,2 @@
+Failed to initialize NLA, do you have correct Kerberos TGT initialized ?
+Connection established using SSL.
