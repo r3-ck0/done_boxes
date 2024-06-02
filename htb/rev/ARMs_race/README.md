@@ -9,7 +9,7 @@ This led me to the idea that this was probably ARM assembly code we received. Af
 
 ```bash
 xxd -r -p hexdump.txt > outfile.bin
-objdump -D -b binary -m arm outfile.bin
+arm-linux-gnueabi-objdump -D -b binary -m arm outfile.bin
 ```
 
 And sure enough, objdump was able to disassemble it.
