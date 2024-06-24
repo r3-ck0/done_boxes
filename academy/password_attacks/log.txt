@@ -36,3 +36,8 @@
 [[Thu May 30 22:05:32 CEST 2024]]: Running crackmapexec smb 10.129.15.145 -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_smb_10.129.15.145_-u_lootusername.list_-p_lootpassword.list.txt)
 [[Thu May 30 22:12:35 CEST 2024]]: Running hydra -L loot/username.list -P loot/password.list rdp://10.129.15.145 (See /home/kali/machines/academy/password_attacks/hydra_-L_lootusername.list_-P_lootpassword.list_rdp:10.129.15.145.txt)
 [[Thu May 30 22:13:45 CEST 2024]]: Running crackmapexec smb 10.129.15.145 -u loot/username.list -p loot/password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_smb_10.129.15.145_-u_lootusername.list_-p_lootpassword.list.txt)
+[[Mon Jun  3 20:22:22 CEST 2024]]: Added target: TARGET
+[[Mon Jun  3 20:22:57 CEST 2024]]: Added /home/kali/Downloads/Password-Attacks.zip to loot.
+[[Mon Jun  3 20:36:23 CEST 2024]]: Running crackmapexec smb 10.129.216.75 -u loot/username.list -p loot/mut_password.list (See /home/kali/machines/academy/password_attacks/crackmapexec_smb_10.129.216.75_-u_lootusername.list_-p_lootmut_password.list.txt)
+[[Mon Jun  3 22:08:38 CEST 2024]]: Added /home/kali/Downloads/mysql-betterdefaultpasslist.txt to loot.
+[[Mon Jun  3 22:20:42 CEST 2024]]: Added /home/kali/Downloads/default_db_credentials1.txt to loot.

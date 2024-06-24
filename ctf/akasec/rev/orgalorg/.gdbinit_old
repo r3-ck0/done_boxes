@@ -1,0 +1,15 @@
+define jc
+advance *$pc+5
+end
+
+set follow-fork-mode child
+
+break *0x55555555e690
+break *0x55555555e748
+break *0x55555555e938
+break *0x55555555e963
+break *0x55555555e97e
+
+layout asm
+
+run

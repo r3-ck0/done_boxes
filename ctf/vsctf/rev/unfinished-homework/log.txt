@@ -1,0 +1,2 @@
+[[Fri Jun 14 20:48:57 CEST 2024]]: Initialized box ctf/vsctf/rev/unfinished-homework
+[[Fri Jun 14 20:49:05 CEST 2024]]: Added /home/kali/Downloads/unfinished-homework.zip to loot.

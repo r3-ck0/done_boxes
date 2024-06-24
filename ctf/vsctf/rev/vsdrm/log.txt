@@ -1,0 +1,2 @@
+[[Fri Jun 14 20:30:28 CEST 2024]]: Initialized box ctf/vsctf/rev/vsdrm
+[[Fri Jun 14 20:30:31 CEST 2024]]: Added /home/kali/Downloads/vsDRM.zip to loot.

@@ -1,0 +1,2 @@
+[[Sat Jun 15 08:44:38 CEST 2024]]: Initialized box ctf/vsctf/pwn/cosmig-ray-v3
+[[Sat Jun 15 08:45:13 CEST 2024]]: Added /home/kali/Downloads/cosmic-ray-v3.zip to loot.

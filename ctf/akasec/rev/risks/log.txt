@@ -1,0 +1,2 @@
+[[Fri Jun  7 17:31:53 CEST 2024]]: Initialized box ctf/akasec/rev/risks
+[[Fri Jun  7 17:32:05 CEST 2024]]: Added /home/kali/Downloads/chall to loot.

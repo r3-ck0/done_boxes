@@ -1,0 +1,6 @@
+[[Fri Jun  7 19:23:00 CEST 2024]]: Initialized box ctf/akasec/rev/orgalorg
+[[Fri Jun  7 19:23:05 CEST 2024]]: Added /home/kali/Downloads/orgalorg to loot.
+[[Fri Jun  7 20:58:07 CEST 2024]]: Updated notes.
+[[Fri Jun  7 21:01:04 CEST 2024]]: Updated notes.
+[[Fri Jun  7 21:01:29 CEST 2024]]: Updated notes.
+[[Sat Jun  8 23:17:49 CEST 2024]]: Added /home/kali/Downloads/orgalorg to loot.

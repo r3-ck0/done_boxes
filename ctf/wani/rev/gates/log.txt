@@ -1,0 +1,2 @@
+[[Fri Jun 21 16:22:29 CEST 2024]]: Initialized box ctf/wani/rev/gates
+[[Fri Jun 21 16:22:35 CEST 2024]]: Added /home/kali/Downloads/gates to loot.

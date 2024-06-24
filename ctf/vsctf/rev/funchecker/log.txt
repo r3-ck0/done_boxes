@@ -1,0 +1,2 @@
+[[Sat Jun 15 08:41:19 CEST 2024]]: Initialized box ctf/vsctf/rev/funchecker
+[[Sat Jun 15 08:41:24 CEST 2024]]: Added /home/kali/Downloads/funchecker.exe to loot.

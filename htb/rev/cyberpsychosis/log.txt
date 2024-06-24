@@ -1,0 +1,2 @@
+[[Sun Jun  2 22:01:54 CEST 2024]]: Initialized box htb/rev/cyberpsychosis
+[[Sun Jun  2 22:02:00 CEST 2024]]: Added /home/kali/Downloads/Cyberpsychosis.zip to loot.

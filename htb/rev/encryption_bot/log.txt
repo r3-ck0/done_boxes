@@ -1,0 +1,4 @@
+[[Wed Jun 12 17:44:38 CEST 2024]]: Initialized box htb/rev/encryption_bot
+[[Wed Jun 12 17:44:42 CEST 2024]]: Added /home/kali/Downloads/Encryption Bot(1).zip to loot.
+[[Wed Jun 12 17:44:47 CEST 2024]]: Added /home/kali/Downloads/Encryption Bot.zip to loot.
+[[Thu Jun 13 22:00:30 CEST 2024]]: Added /home/kali/Downloads/Untitled.py to loot.
